@@ -1,1 +1,5 @@
-# de-ai-journey-
+# Data + AI Engineer Journey
+Career transition from QA (banking domain) → Data + AI Engineer.
+Target: November–December 2026.
+Day 1 (June 18, 2026): Started. Solved LeetCode #595 (Big Countries). The chain
+begins.
